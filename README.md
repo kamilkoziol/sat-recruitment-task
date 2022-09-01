@@ -40,6 +40,7 @@ Open terminal, move to project directory and execute command
 
 To run an app go to project directory and execute:
 `./sat-rust-api` for precompiled app,
+
 `./target/release/sat-rust-api` for app compiled locally,
 
 ### 5. Setting custom port number
