@@ -20,7 +20,9 @@ To check if Rust is already installed in your OS open a terminal and execute bel
 
 `rustc --version`
 
-If Rust is missing follow official guides suitable for your OS. To validate installation reopen terminal and execute above command once again. Expected result :
+If Rust is missing follow official guides suitable for your OS. Guides are avaliable here: https://www.rust-lang.org/tools/install
+
+To validate installation reopen terminal and execute above command once again. Expected result :
 
 `rustc 1.63.0 (4b91a6ea7 2022-08-08)` (version might vary)
 
